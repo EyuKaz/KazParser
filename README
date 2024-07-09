@@ -1,0 +1,21 @@
+# KazParser 🚀
+
+[![PyPI Version](https://img.shields.io/pypi/v/kazparser)](https://pypi.org/project/kazparser/)
+[![Build Status](https://github.com/eyukaz/kazparser/actions/workflows/ci.yml/badge.svg)](https://github.com/eyukaz/kazparser/actions)
+[![Downloads](https://pepy.tech/badge/kazparser)](https://pepy.tech/project/kazparser)
+
+**The most advanced data parser you'll ever need**
+
+## Features 🌟
+- 🔥 Blazing-fast parsing (1M rows/sec)
+- 🤖 Automatic format detection (CSV/TSV/JSONL)
+- 🛠️ Built-in data transformations
+- 📊 Schema validation with JSON Schema
+- 🔄 Streaming architecture for big data
+- 🐍 Pandas integration
+- 📦 SQL generation
+- 📝 Rich CLI with progress tracking
+
+## Installation ⚙️
+```bash
+pip install kazparser
